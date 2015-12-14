@@ -1,0 +1,17 @@
+<div class="topinfo">
+					<ul class="social-icons list-soc">
+						<a href="http://202.5.52.19:8081/"><img src="http://vu.edu.bd/img/login-button.png"></a>
+						<li><a href="https://www.facebook.com/varendrauniversity2012"><i class="icon-facebook"></i></a></li>
+						<li><a href="#"><i class="icon-twitter"></i></a></li>
+						<li><a href="#"><i class="icon-google-plus"></i></a></li>
+					</ul>
+					<div class="infophone">
+						<i class="icon-phone"></i> (+880721)751274 &nbsp; <i class="icon-phone"></i> (+880721)751459 &nbsp; <i class="fa fa-mobile"></i> +8801730406501-4
+					</div>
+					<!--div class="infoaddress">
+						<form id="search" action="#" method="post">							
+							<input type="text" onfocus="if(this.value =='Search here...' ) this.value=''" onblur="if(this.value=='') this.value='Search here...'" value="Search here..." name="s">
+							<a href="#"></a>							
+						</form>
+					</div-->
+				</div>
